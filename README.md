@@ -1,0 +1,1 @@
+In this project we performed Data cleaning, EDA and K-means clustering algorithm to find out which countries have high and low suicide rates and which factors play the major role for the people to commit suicides 
